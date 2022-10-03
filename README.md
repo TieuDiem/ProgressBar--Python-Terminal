@@ -1,2 +1,2 @@
-# ProgressBar--Python-Terminal
+# ProgressBar-Python-Terminal
 Simple ProgressBar Python Terminal
